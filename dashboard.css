@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+   --bg: #f5f5f5; /* Background de la pagina  */
+   --text: #1a1a1a; /* color principal del texto */    
+}
+.main-content{
+    color:var(--text)
+}
